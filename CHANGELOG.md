@@ -1,6 +1,8 @@
 # Node.js Buildpack Changelog
 
 ## main
+# [UNRELEASED] (2021-01-21)
+- add Hylo specific webpack build command to buildpack
 
 # v182 (2020-01-05)
 - add Node 14.15.3 and 15.5.0 to inventory ([#881](https://github.com/heroku/heroku-buildpack-nodejs/pull/881))
